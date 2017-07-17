@@ -1,2 +1,2 @@
 console.log('Testing git.');
-console.log('Test It WoW');
+console.log('Test It NoW');
